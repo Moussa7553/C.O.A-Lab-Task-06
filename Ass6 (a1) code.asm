@@ -1,4 +1,4 @@
-; Write an assembly language program to convert an upper-case letter to the
+; Write a program in assembly language to print multiple characters on screen.
 corresponding lower-case letter.
 ORG 100h
 
