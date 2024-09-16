@@ -1,5 +1,5 @@
 ; Write an assembly language program to convert a lower-case letter to the
-corresponding upper-case letter.
+; corresponding upper-case letter.
 .MODEL SMALL
 .STACK 100H
 
