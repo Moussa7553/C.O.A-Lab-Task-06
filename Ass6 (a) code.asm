@@ -1,3 +1,4 @@
+; Write a program in assembly language to print single character on screen.
 .MODEL SMALL
 .STACK 100H
 
